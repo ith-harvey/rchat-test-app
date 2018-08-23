@@ -1,0 +1,15 @@
+{
+    "id": "54083b45-9e96-4a53-a001-8964f243812a",
+    "version": "0.0.1",
+    "requiredApiVersion": "^0.9.13",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "workhop",
+        "homepage": "workhop",
+        "support": "workhope"
+    },
+    "name": "workhope",
+    "nameSlug": "workhope",
+    "classFile": "WorkhopeApp.ts",
+    "description": "workhope"
+}
